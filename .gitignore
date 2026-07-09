@@ -1,0 +1,91 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Build / output
+dist/
+build/
+out/
+lib/
+esm/
+cjs/
+coverage/
+.nyc_output/
+
+# TypeScript
+*.tsbuildinfo
+
+# Package manager stores & lock caches
+.pnpm-store/
+.pnp.cjs
+.pnp.js
+.yarn/*
+# Uncomment the next line if you do NOT want to commit lockfiles
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
+
+# Next.js / Vercel / static sites
+.next/
+.vercel/
+out/
+.cache/
+.storybook/
+storybook-static/
+
+# Parcel / Snowpack / Vite / SvelteKit
+.cache/
+.parcel-cache/
+.snowpack/
+.svelte-kit/
+
+# Jest / test runners
+jest.config.ts
+jest.config.js
+*.snap
+jest.setup.js
+
+# Debugger / IDE / Editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.*
+.env.local
+.env.*.local
+
+# Misc caches & temp files
+*.tgz
+.cache/
+tmp/
+temp/
+*.log
+
+# ESLint, Prettier caches
+.eslintcache
+.prettier-cache
+
+# TypeScript declaration outputs
+*.d.ts
+
+# Other
+# Temporary file for partial code execution (used in some editors)
+tempCodeRunnerFile.py
